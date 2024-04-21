@@ -31,9 +31,6 @@ XTuner는 효율적이고 유연하며 기능이 풍부한 대규모 모델 파�
 
 
 
-[xtuner](https://github.com/ox1111/xtuner.git)
-
-
 
 <div align="center">
   <img src="https://github.com/InternLM/lmdeploy/assets/36994684/0cf8d00f-e86b-40ba-9b54-dc8f1bc6c8d8" width="600"/>
